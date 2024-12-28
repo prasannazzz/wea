@@ -1,4 +1,6 @@
-# wea
+# Weather App
+![image](https://github.com/user-attachments/assets/4686c923-f969-41c0-b776-d8c9d81fc12d)
+
 
 A new Flutter project.
 
